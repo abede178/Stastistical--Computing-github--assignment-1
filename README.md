@@ -1,37 +1,28 @@
-
-# Health Data Science Assignment
+# Health Data Science Assignment 1
 
 ## Project Overview
-This project demonstrates the use of Git and GitHub for version control.
+This project demonstrates basic Git and GitHub
+skills using sample health data.
 
 ## Objectives
-- Create a Git repository.
-- Track changes using commits.
-- Upload files to GitHub.
-- Generate sample public health data.
+- Create a local Git repository.
+- Practice Git add, commit, and push.
+- Create a sample health data script.
+- Share the project on GitHub.
 
 ## Files
-- sample_data.py: Python script for generating sample data.
-- README.md: Project documentation.
+- sample_data.py: Generates sample health data.
+- README.md: Describes the project.
 
-## Requirements
-- Python 3
-- pandas
+## Tools
 - Git
 - GitHub
+- Python
+- Pandas
 
-## How to Run
-Install pandas:
+## Author
+Enyew Andualem
 
-    pip install pandas
-
-Run the script:
-
-    python sample_data.py
-
-## Data Privacy
-The dataset is synthetic and does not contain real patient records.
-
-## Institution
-Addis Ababa University
-This assignment introduces basic version control for health data science.
+## Note
+The data used in this project are fictional
+and intended for learning purposes.
