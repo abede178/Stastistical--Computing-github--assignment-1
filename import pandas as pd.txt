@@ -1,0 +1,20 @@
+import pandas as pd
+
+# Sample health data
+data = {
+    "Patient_ID": [1, 2, 3, 4, 5],
+    "Age": [25, 34, 46, 52, 29],
+    "Sex": ["F", "M", "F", "M", "F"],
+    "Systolic_BP": [110, 125, 135, 145, 118]
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Display the data
+print("Sample Health Data")
+print(df)
+
+# Display summary statistics
+print("\nSummary Statistics")
+print(df.describe())
